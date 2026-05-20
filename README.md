@@ -1,1 +1,1 @@
-[![typograssy](https://typograssy.deno.dev/api?text=FREE%20DURK!)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=FREE%20THE%20VOICE)](https://github.com/kawarimidoll/typograssy)
